@@ -19,11 +19,11 @@
 <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍🤝‍🧑 초기 멤버 소개 </h2>
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-<li>방가연 - 미디어커뮤니케이션학과 23학번</li>
+<li>조윤빈 - 산업경영학과 22학번</li>
 <li>김미소 - 산업경영학과 22학번</li>
 <li>김기윤 - 산업경영학과 22학번</li>
 <li>김동규 - 산업경영학과 22학번</li>
-<li>조윤빈 - 산업경영학과 22학번</li>
+<li>방가연 - 미디어커뮤니케이션학과 23학번</li>
 </div>
 </div>
 
