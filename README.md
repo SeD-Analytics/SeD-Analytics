@@ -1,4 +1,9 @@
 # SeD
+
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)]([https://notion.so](https://www.notion.so/SeD-Shall-We-Date-113d461c2abe81308e61db385b552351)) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SeD-Analytics) 
+[![Homepage](https://img.shields.io/badge/Homepage-0078D4?style=flat-square&logo=google-chrome&logoColor=white)]([https://yourhomepage.com](https://sites.google.com/view/inused/%ED%99%88))
+
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02499a,100:fcaf15&height=120&text=Shall%20We%20Date%20?&animation=fadeIn&fontColor=000000&fontSize=50" />
     </div>
