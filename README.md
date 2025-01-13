@@ -37,6 +37,18 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 </div>
 </div>
+<div style="text-align: left;">
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 동아리 커리큘럼 목록 </h2>
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
+    <li><img src="https://img.shields.io/badge/Data%20Preprocessing-2196F3?style=flat-square&logo=DataCamp&logoColor=white"> 데이터 전처리 및 탐색적 데이터 분석</li>
+    <li><img src="https://img.shields.io/badge/Statistics-4CAF50?style=flat-square&logo=Scipy&logoColor=white"> 통계 기법 학습 및 적용</li>
+    <li><img src="https://img.shields.io/badge/Data%20Visualization-F57C00?style=flat-square&logo=Tableau&logoColor=white"> 데이터 시각화 기술과 도구</li>
+    <li><img src="https://img.shields.io/badge/Machine%20Learning-9C27B0?style=flat-square&logo=scikit-learn&logoColor=white"> 기초 머신러닝 알고리즘 구현</li>
+    <li><img src="https://img.shields.io/badge/Deep%20Learning-FF5722?style=flat-square&logo=TensorFlow&logoColor=white"> 딥러닝 모델 실습</li>
+    <li><img src="https://img.shields.io/badge/Capstone%20Project-607D8B?style=flat-square&logo=GitHub&logoColor=white"> 데이터 분석 프로젝트 및 발표</li>
+</div>
+</div>
+
 
 <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎯 지원자격 및 방법 </h2>
