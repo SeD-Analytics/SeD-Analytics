@@ -5,7 +5,7 @@ import pandas as pd
 
 # 검색 키워드와 페이지 수를 자동 설정
 keyword = "데이터"
-allpage = 1000
+allpage = 10
 
 # 데이터를 저장할 리스트
 data = []
