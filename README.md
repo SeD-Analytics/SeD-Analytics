@@ -19,12 +19,12 @@
 <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍🤝‍🧑 초기 멤버 소개 </h2>
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-<li>조윤빈 - 산업경영공학과 22학번</li>
-<li>정지원 - 산업경영공학과 22학번</li>
-<li>김미소 - 산업경영공학과 22학번</li>
 <li>김기윤 - 산업경영공학과 22학번</li>
 <li>김동규 - 산업경영공학과 22학번</li>
+<li>김미소 - 산업경영공학과 22학번</li>
 <li>방가연 - 미디어커뮤니케이션학과 23학번</li>
+<li>정지원 - 산업경영공학과 22학번</li>
+<li>조윤빈 - 산업경영공학과 22학번</li>
 </div>
 </div>
 
@@ -58,17 +58,10 @@
 
 <h3 style="margin-top: 10px; font-size: 18px; color: #282d33;">지원 방법</h3>
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-<li>기간: 2025. 03 ~ 2025. 03. 10</li>
+<li>기간: 2025.03.05 00:00:00 ~ 2025.03.14 24:00:00 </li>
 <li>지원 링크: 
-    <a href="https://docs.google.com/forms/d/1q4jrU2BsEa9ofj1H3d85RlpMolX63BW0l1k7kakI8Pw/viewform?edit_requested=true"> 
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSf4_UnuAIOlzPY2sR2h-yFkuTkw0MY3oceCALZ05WZen417Aw/viewform"> 
     <img src="https://img.shields.io/badge/지원하기-4285F4?style=for-the-badge&logo=Google-Forms&logoColor=white"></a></li>
 </div>
 </div>
-
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-    <div style="text-align: left;"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=SeD&custom_title=SeD's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000" /> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeD&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" /> 
-    </div> 
 </div>
