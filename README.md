@@ -5,7 +5,7 @@
 [![Homepage](https://img.shields.io/badge/Homepage-0078D4?style=flat-square&logo=google-chrome&logoColor=white)](https://sites.google.com/view/inused/%ED%99%88)
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02499a,100:fcaf15&height=120&text=Shall%20We%20Date%20?&animation=fadeIn&fontColor=000000&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02499a,100:fcaf15&height=120&text=Shall%20we%20Data%20?&animation=fadeIn&fontColor=000000&fontSize=50" />
 </div>
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Shall we Data? 데이터로 세상을 탐구하기 </h2>  
