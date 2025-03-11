@@ -15,7 +15,7 @@
     <li>분석을 넘어 인사이트를 나누고, 아이디어를 현실로 만들어가는 과정을 함께하며, 데이터로 세상을 바꿀 준비가 된 친구들을 환영합니다! 🖥️📊 </li>
     </div> 
 </div>
-
+<br/>
 <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍🤝‍🧑 초기 멤버 소개 </h2>
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
@@ -27,7 +27,7 @@
 <li>조윤빈 - 산업경영공학과 22학번</li>
 </div>
 </div>
-
+<br/>
 <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
 <div style="margin: ; text-align: left;"> 
@@ -37,6 +37,7 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 </div>
 </div>
+<br/>
 <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 동아리 활동정보 </h2>
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
@@ -48,7 +49,7 @@
 </div>
 </div>
 
-
+<br/>
 <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎯 지원자격 및 방법 </h2>
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
@@ -63,7 +64,7 @@
 <h3 style="margin-top: 10px; font-size: 18px; color: #282d33;">지원 방법</h3>
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
 <li>기간: 2025.03.05 00:00:00 ~ 2025.03.14 24:00:00 </li>
-<li>지원 링크: 
+<li>
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSf4_UnuAIOlzPY2sR2h-yFkuTkw0MY3oceCALZ05WZen417Aw/viewform"> 
     <img src="https://img.shields.io/badge/지원하기-4285F4?style=for-the-badge&logo=Google-Forms&logoColor=white"></a></li>
 </div>
