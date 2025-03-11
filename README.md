@@ -29,7 +29,7 @@
 </div>
 
 <div style="text-align: left;">
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
 <div style="margin: ; text-align: left;"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
@@ -38,9 +38,13 @@
 </div>
 </div>
 <div style="text-align: left;">
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 동아리 커리큘럼 </h2>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 동아리 활동정보 </h2>
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-    <li><img src="https://img.shields.io/badge/Data%20Preprocessing-2196F3?style=flat-
+<li>전공 교과목에서 배운 내용을 실전 프로젝트로 적용</li>
+<li>Kaggle 프로젝트 및 자체 데이터톤 진행</li>
+<li>교외 데이터 경진대회 참가</li>
+<li>동아리 산출물 아카이빙 및 공유</li>
+<li>데이터 기반 연구 경험을 통한 학부와의 연계</li>
 </div>
 </div>
 
