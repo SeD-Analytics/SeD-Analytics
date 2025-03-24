@@ -10,7 +10,7 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Shall we Data? 데이터로 세상을 탐구하기 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
-    <li>SeD는 산업경영공학과 학생들이 모여 사회과학 문제를 정량적 접근으로 해결하는 데이터 사이언스 동아리입니다.</li>
+    <li>SeD는 인천대학교의 학생들이 모여 사회과학 문제를 정량적 접근으로 해결하는 데이터 사이언스 동아리입니다.</li>
     <li>학부 과정에서 배우는 데이터 과목의 이론을 실제 문제에 적용하여, 양질의 산출물을 도출하는 것이 궁극적인 목표입니다.</li>
     <li>분석을 넘어 인사이트를 나누고, 아이디어를 현실로 만들어가는 과정을 함께하며, 데이터로 세상을 바꿀 준비가 된 친구들을 환영합니다! 🖥️📊 </li>
     </div> 
