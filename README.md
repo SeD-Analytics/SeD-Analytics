@@ -36,25 +36,10 @@
 <li>데이터 기반 연구 경험을 통한 학부와의 연계</li>
 </div>
 </div>
-
 <br/>
 <div style="text-align: left;">
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎯 지원자격 및 방법 </h2>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎯 인재상 </h2>
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
 <li>데이터 분석에 관심이 있고 열정이 있는 자</li>
 <li>6개월 이상 연속으로 활동할 수 있는 자</li>
-</div>
-<h3 style="margin-top: 10px; font-size: 18px; color: #282d33;">우대사항</h3>
-<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-<li>데이터 분석 또는 프로그래밍 관련 경험이 있는 자</li>
-</div>
-
-<h3 style="margin-top: 10px; font-size: 18px; color: #282d33;">지원 방법</h3>
-<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-<li>기간: 2025.03.05 00:00:00 ~ 2025.03.14 24:00:00 </li>
-<li>
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSf4_UnuAIOlzPY2sR2h-yFkuTkw0MY3oceCALZ05WZen417Aw/viewform"> 
-    <img src="https://img.shields.io/badge/지원하기-4285F4?style=for-the-badge&logo=Google-Forms&logoColor=white"></a></li>
-</div>
-</div>
 </div>
